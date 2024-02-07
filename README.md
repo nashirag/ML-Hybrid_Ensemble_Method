@@ -1,4 +1,4 @@
-# ML-Hybrid_Ensemble_SET8
+# ML-Hybrid_Ensemble
 This repository contains several descriptive notebooks that walk through the creation of the ML-Hybrid Ensemble Model. 
 
 The ML-Hybrid Ensemble Model works off of a pregenerated experimental subset of the proteome, the methylome. The ~4,500 sites contained within the methylome were synthesised with peptide array experiments, then exposed to SET8. Sites that demonstrated SET8 methylation activity (~200) are noted within the file, and are our positive case. 
