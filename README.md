@@ -16,4 +16,4 @@ This notebook outlines the procedures in fitting and testing models, including t
 The final step is to re-initialize the model and apply it to score experimental datasets, as outlined here. It is important to note that the cancerous mutation datasets required initial runs with MethylSight, as the mutated sequences are not included in the full proteome file which concerns normal cells. 
 
 ## NOTE
-Some datasets were too large to be uploaded to this page. They include the full proteome surface exposed lysine set, and the MethylSight full proteome set. They may be found here: https://drive.google.com/drive/folders/1mEmag5tNmzdm5_NIwxH43xEfKT-4aWi0?usp=share_link. 
+Some datasets were too large to be uploaded to this page. They include the full proteome surface exposed lysine set, and the MethylSight full proteome set. If downloading locally, deposit in a separate file called "big_datasets". [Large files may be found here.](https://drive.google.com/drive/folders/1mEmag5tNmzdm5_NIwxH43xEfKT-4aWi0?usp=share_link)
