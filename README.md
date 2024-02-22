@@ -1,4 +1,4 @@
-### ML-Hybrid Ensemble Methodology
+# ML-Hybrid Ensemble Methodology
 Applying machine learning (ML) to the prediction of substrates for post-translational modification (PTM) inducing enzymes. 
 
 We began our investigation with SET8, a lysine methyltransferase that affects both histone and non-histone substrates. The exploratory techniques applied may be observed within the SET8-Investigation directory. The datasets, and notebooks containing the methodology applied are outlined therein. The procedures applied yielded a significant rate of experimentally-validated precision for the identification of novel SET8 substrates, as validated by mass-spectrometry in human cells.
