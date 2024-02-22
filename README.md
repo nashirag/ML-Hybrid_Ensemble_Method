@@ -14,10 +14,17 @@ To demonstrate the generalizability of the ML-Hybrid ensemble method towards oth
 
 ## Developed and Tested With
 python 3.11.4
+
 pandas 1.5.3
+
 numpy 1.24.3
+
 rdkit 2022.09.5
+
 seaborn 0.12.2
+
 matplotlib 3.7.1
+
 sklearn 1.2.2
+
 imblearn 0.10.1
