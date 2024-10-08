@@ -12,14 +12,4 @@ The basic workflow of the technique is as follows:
 
 To demonstrate the generalizability of the ML-Hybrid ensemble method towards other PTMs, the activity of the entire sirtuin family was predicted across the proteome. The procedures of the ML-Hybrid Ensemble Methodology were streamlined and automated for this process, as exhibited within the SIRT-Investigation directory. 
 
-### Developed and Tested With
-```
-python 3.11.4
-pandas 1.5.3
-numpy 1.24.3
-rdkit 2022.09.5
-seaborn 0.12.2
-matplotlib 3.7.1
-sklearn 1.2.2
-imblearn 0.10.1
-```
+### Developed and Tested With python 3.11.4
