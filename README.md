@@ -1,4 +1,4 @@
-# ML-Hybrid Ensemble Methodology
+# ML-Hybrid Ensemble Method
 Applying machine learning (ML) to the prediction of substrates for post-translational modification (PTM) inducing enzymes. 
 
 We began our investigation with SET8, a lysine methyltransferase that affects both histone and non-histone substrates. The exploratory techniques applied may be observed within the SET8-Investigation directory. The datasets, and notebooks containing the methodology applied are outlined therein. The procedures applied yielded a significant rate of experimentally-validated precision for the identification of novel SET8 substrates, as validated by mass-spectrometry in human cells.
@@ -10,6 +10,6 @@ The basic workflow of the technique is as follows:
 4. Fit an ensemble ML model through the use of a secondary, generalized PTM predictor (i.e. predicts if a PTM will take, not the enzyme responsible) - assess resulting model
 5. Score an experimental dataset representative of the proteome to determine novel sites of PTM activity specific to the enzyme studied
 
-To demonstrate the generalizability of the ML-Hybrid ensemble method towards other PTMs, the activity of the entire sirtuin family was predicted across the proteome. The procedures of the ML-Hybrid Ensemble Methodology were streamlined and automated for this process, as exhibited within the SIRT-Investigation directory. 
+To demonstrate the generalizability of the ML-Hybrid ensemble method towards other PTMs, the activity of the entire sirtuin family was predicted across the proteome, and validated with mass-spectrometry verified data for SIRT2. Additionally, the method was further applied towards the kinase Abl, a protein-tyrosine kinase. Much like the SIRT2 data, the Abl investigation is validated with mass-spectrometry verified data containing substrates that are highly likely to be modified by the enzyme. The procedures of the ML-Hybrid Ensemble Methodology were streamlined and automated for this process, as exhibited within the SIRT-Investigation directory. 
 
 ### Developed and Tested With python 3.11.4
