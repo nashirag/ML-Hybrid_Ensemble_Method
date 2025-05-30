@@ -13,3 +13,7 @@ The basic workflow of the technique is as follows:
 To demonstrate the generalizability of the ML-Hybrid ensemble method towards other PTMs, the activity of the entire sirtuin family was predicted across the proteome, and validated with mass-spectrometry verified data for SIRT2. Additionally, the method was further applied towards the kinase Abl, a protein-tyrosine kinase. Much like the SIRT2 data, the Abl investigation is validated with mass-spectrometry verified data containing substrates that are highly likely to be modified by the enzyme. The procedures of the ML-Hybrid Ensemble Methodology were streamlined and automated for this process, as exhibited within the SIRT-Investigation directory. 
 
 ### Developed and Tested With python 3.11.4
+
+### License
+This project is licensed under the [Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/).  
+You are free to use, share, and adapt the material for non-commercial purposes, as long as appropriate credit is given.
